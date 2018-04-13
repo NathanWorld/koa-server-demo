@@ -9,12 +9,16 @@
 ```
   // 下载
   git clone 'git@github.com:NathanWorld/koa-server-demo.git'
+
   // 切换到项目目录
   cd koa-server-demo
+
   // 安装依赖包
   yarn 
+
   // 运行
   yarn start
+
   // 访问链接, 在Chrome浏览器中输入如下地址
   http://localhost:3000
 ```
